@@ -1,0 +1,6 @@
+#results{
+    display:grid;
+    grid-template-columns:repeat(4,20%);
+    grid-gap:5%;
+    margin-top:80px; 
+}
